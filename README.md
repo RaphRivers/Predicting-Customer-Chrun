@@ -32,10 +32,10 @@ Principal Component Analysis (PCA) and clustering to identify significant featur
 4. [Model Building](/notebooks/3. Models Building.ipynb)
 Development of logistic regression models, including both linear terms and interaction terms.
 Incorporation of polynomial features to capture non-linear relationships.
-5. [Model Performance Evaluation](/notebooks/4. Confusion Matrix.ipynb)
+5. [Model Performance Evaluation](notebooks/4. Confusion Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. [Prediction and Cross-Validation](/notebooks/5. Model Prediction and Perfomance.ipynb)
+6. [Prediction and Cross-Validation](notebooks/5. Model Prediction and Perfomance.ipynb)
 Validation of model performance using k-fold cross-validation to assess stability and avoid overfitting.
 
 ## Models and Results
