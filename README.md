@@ -1,4 +1,4 @@
-#Customer Churn Prediction Using Customer Service Call Dataset
+# Customer Churn Prediction Using Customer Service Call Dataset
 ##Project Overview
 The primary objective of this project is to predict customer churn and identify the key features influencing this behavior using the customer service call dataset provided by PPG. The dataset contains various data points that highlight customer characteristics and company interactions but does not include any personally identifiable information.
 
