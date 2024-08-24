@@ -19,25 +19,26 @@ Business Impact
 The findings from this project provide actionable insights that can be used to enhance customer retention strategies. By identifying the key factors contributing to churn, businesses can take proactive measures to improve customer satisfaction and loyalty, thereby contributing to their overall stability and growth.
 
 ## Methodology
-1. Data Preprocessing
+1. (Data Preprocessing)[notebooks/1. Data Preprocessing EDA.ipynb]
 Data cleaning and preparation.
 Handling missing values and outliers.
 Encoding categorical variables and normalizing numerical features.
-2. Exploratory Data Analysis (EDA)
+2. (Exploratory Data Analysis)[notebooks/1. Data Preprocessing EDA.ipynb]
 Understanding the distribution and relationships between variables.
 Visualizing key patterns and trends in the dataset.
-3. Feature Engineering
+3. (Feature Engineering)[notebooks/2. Feature Engineering.ipynb]
 Creation of new features to capture complex patterns.
 Principal Component Analysis (PCA) and clustering to identify significant feature groups.
-4. Model Building
+4. (Model Building)[3. Models Building.ipynb]
 Development of logistic regression models, including both linear terms and interaction terms.
 Incorporation of polynomial features to capture non-linear relationships.
-5. Model Performance Evaluation
+5. (Model Performance Evaluation)[4. Confusion Matrix.ipynb]
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. Cross-Validation
+6. (Prediction and Cross-Validation)[5. Model Prediction and Perfomance.ipynb]
 Validation of model performance using k-fold cross-validation to assess stability and avoid overfitting.
-Models and Results
+
+## Models and Results
 Model 8: Primary Model
 Features: Includes linear terms, interaction terms, and polynomial features.
 Performance: Achieved a mean ROC_AUC score of 0.6798 with a 95% confidence interval of 0.0117.
@@ -56,7 +57,4 @@ Future Work
 Further Feature Exploration: Explore additional feature engineering techniques to uncover other potential predictors.
 Advanced Modeling Techniques: Experiment with other machine learning algorithms such as Random Forest, Gradient Boosting, or Neural Networks to potentially improve prediction accuracy.
 
-Real-time Churn Prediction: Implement real-time churn prediction systems using streaming data.
-## References
-Luck, I. (2023, April 4). What Is Customer Churn? Complete Meaning & Guide. Retrieved from Customer Guage: https://customergauge.com/customer-churn
-Smolic, H. (2023, November 10). The Ultimate Guide to Understanding and Predicting Customer Churn. Retrieved from Graphite Note: https://graphite-note.com/the-ultimate-guide-to-understanding-and-predicting-customer-churn/
+
