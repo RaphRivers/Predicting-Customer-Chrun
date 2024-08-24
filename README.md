@@ -35,8 +35,8 @@ Incorporation of polynomial features to capture non-linear relationships.
 5. [Model Performance Evaluation](notebooks/4. Confusion Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. [Prediction and Cross-Validation](notebooks/5. Model Prediction and Perfomance.ipynb)
-Validation of model performance using k-fold cross-validation to assess stability and avoid overfitting.
+6. [Prediction and Cross-Validation]([notebooks/5. Model Prediction and Perfomance.ipynb](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb))
+Validation of model performance using input grid cross-validation to assess stability and avoid overfitting.
 
 ## Models and Results
 Model 8: Primary Model
