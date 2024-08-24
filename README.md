@@ -19,23 +19,23 @@ Business Impact
 The findings from this project provide actionable insights that can be used to enhance customer retention strategies. By identifying the key factors contributing to churn, businesses can take proactive measures to improve customer satisfaction and loyalty, thereby contributing to their overall stability and growth.
 
 ## Methodology
-1. [Data Preprocessing](notebooks/1. Data Preprocessing EDA.ipynb)
+1. [Data Preprocessing](/notebooks/1. Data Preprocessing EDA.ipynb)
 Data cleaning and preparation.
 Handling missing values and outliers.
 Encoding categorical variables and normalizing numerical features.
-2. [Exploratory Data Analysis](notebooks/1. Data Preprocessing EDA.ipynb)
+2. [Exploratory Data Analysis](/notebooks/1. Data Preprocessing EDA.ipynb)
 Understanding the distribution and relationships between variables.
 Visualizing key patterns and trends in the dataset.
-3. [Feature Engineering](notebooks/2. Feature Engineering.ipynb)
+3. [Feature Engineering](/notebooks/2. Feature Engineering.ipynb)
 Creation of new features to capture complex patterns.
 Principal Component Analysis (PCA) and clustering to identify significant feature groups.
-4. [Model Building](3. Models Building.ipynb)
+4. [Model Building](/notebooks/3. Models Building.ipynb)
 Development of logistic regression models, including both linear terms and interaction terms.
 Incorporation of polynomial features to capture non-linear relationships.
-5. [Model Performance Evaluation](4. Confusion Matrix.ipynb)
+5. [Model Performance Evaluation](/notebooks/4. Confusion Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. [Prediction and Cross-Validation](5. Model Prediction and Perfomance.ipynb)
+6. [Prediction and Cross-Validation](/notebooks/5. Model Prediction and Perfomance.ipynb)
 Validation of model performance using k-fold cross-validation to assess stability and avoid overfitting.
 
 ## Models and Results
