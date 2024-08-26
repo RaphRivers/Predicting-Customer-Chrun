@@ -23,19 +23,19 @@ The findings from this project provide actionable insights that can be used to e
 Data cleaning and preparation.
 Handling missing values and outliers.
 Encoding categorical variables and normalizing numerical features.
-2. [Exploratory Data Analysis](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
+2. [**Exploratory Data Analysis**](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
 Understanding the distribution and relationships between variables.
 Visualizing key patterns and trends in the dataset.
-3. [Feature Engineering](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/2.%20Feature%20Engineering.ipynb)
+3. [**Feature Engineering**](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/2.%20Feature%20Engineering.ipynb)
 Creation of new features to capture complex patterns.
 Principal Component Analysis (PCA) and clustering to identify significant feature groups.
-4. [Model Building](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/3.%20Models%20Building.ipynb)
+4. [**Model Building**](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/3.%20Models%20Building.ipynb)
 Development of logistic regression models, including both linear terms and interaction terms.
 Incorporation of polynomial features to capture non-linear relationships.
-5. [Model Performance Evaluation](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/4.%20Confusion%20Matrix.ipynb)
+5. [**Model Performance Evaluation**](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/4.%20Confusion%20Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. [Prediction and Cross-Validation](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb)
+6. [**Prediction and Cross-Validation**](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb)
 Validation of model performance using input grid cross-validation to assess stability and avoid overfitting.
 
 ## Models and Results
