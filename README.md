@@ -19,7 +19,7 @@ Business Impact
 The findings from this project provide actionable insights that can be used to enhance customer retention strategies. By identifying the key factors contributing to churn, businesses can take proactive measures to improve customer satisfaction and loyalty, thereby contributing to their overall stability and growth.
 
 ## Methodology
-1. [Data Preprocessing](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
+1. **[Data Preprocessing]**(https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
 Data cleaning and preparation.
 Handling missing values and outliers.
 Encoding categorical variables and normalizing numerical features.
