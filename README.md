@@ -35,7 +35,7 @@ Incorporation of polynomial features to capture non-linear relationships.
 5. [Model Performance Evaluation](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/4.%20Confusion%20Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
-6. [Prediction and Cross-Validation]([notebooks/5. Model Prediction and Perfomance.ipynb](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb))
+6. [Prediction and Cross-Validation](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb)
 Validation of model performance using input grid cross-validation to assess stability and avoid overfitting.
 
 ## Models and Results
