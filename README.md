@@ -1,6 +1,6 @@
 # Customer Churn Prediction Using Customer Service Call Dataset
 ## Project Overview
-This project is part of my Masters in Data Science preliminary project at the University of Pittsburgh. The primary objective of this project is to predict customer churn and identify the key features influencing this behavior using the customer service call dataset. The dataset contains various data points that highlight customer characteristics and company interactions but does not include any personally identifiable information.
+The primary objective of this project is to predict customer churn and identify the key features influencing this behavior using the customer service call dataset. The dataset contains various data points that highlight customer characteristics and company interactions but does not include any personally identifiable information.
 
 This project follows a systematic approach, including data preprocessing, exploratory data analysis (EDA), feature engineering, model building, model performance evaluation, and cross-validation. By applying robust predictive models, we identified the most significant features influencing customer churn, ultimately helping businesses enhance their retention strategies.
 
