@@ -19,20 +19,20 @@ Business Impact
 The findings from this project provide actionable insights that can be used to enhance customer retention strategies. By identifying the key factors contributing to churn, businesses can take proactive measures to improve customer satisfaction and loyalty, thereby contributing to their overall stability and growth.
 
 ## Methodology
-1. [Data Preprocessing](/notebooks/1. Data Preprocessing EDA.ipynb)
+1. [Data Preprocessing](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
 Data cleaning and preparation.
 Handling missing values and outliers.
 Encoding categorical variables and normalizing numerical features.
-2. [Exploratory Data Analysis](/notebooks/1. Data Preprocessing EDA.ipynb)
+2. [Exploratory Data Analysis](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/1.%20Data%20Preprocessing%20EDA.ipynb)
 Understanding the distribution and relationships between variables.
 Visualizing key patterns and trends in the dataset.
-3. [Feature Engineering](/notebooks/2. Feature Engineering.ipynb)
+3. [Feature Engineering](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/2.%20Feature%20Engineering.ipynb)
 Creation of new features to capture complex patterns.
 Principal Component Analysis (PCA) and clustering to identify significant feature groups.
-4. [Model Building](/notebooks/3. Models Building.ipynb)
+4. [Model Building](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/3.%20Models%20Building.ipynb)
 Development of logistic regression models, including both linear terms and interaction terms.
 Incorporation of polynomial features to capture non-linear relationships.
-5. [Model Performance Evaluation](notebooks/4. Confusion Matrix.ipynb)
+5. [Model Performance Evaluation](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/4.%20Confusion%20Matrix.ipynb)
 Evaluation of models using metrics such as ROC-AUC score, precision, recall, and F1-score.
 Cross-validation to ensure model generalization.
 6. [Prediction and Cross-Validation]([notebooks/5. Model Prediction and Perfomance.ipynb](https://github.com/RaphRivers/Predicting-Customer-Chrun/blob/main/notebooks/5.%20Model%20Prediction%20and%20Perfomance.ipynb))
