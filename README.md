@@ -1,18 +1,16 @@
 # Customer Churn Prediction Using Customer Service Call Dataset
 ## Project Overview
-The primary objective of this project is to predict customer churn and identify the key features influencing this behavior using the customer service call dataset. 
+The primary objective of this project is to use the customer service call dataset to predict customer churn and identify the key features influencing this behavior. This project follows a systematic approach, including data preprocessing, exploratory data analysis (EDA), feature engineering, model building, model performance evaluation, and cross-validation. By applying robust predictive models, I identified the most significant features influencing customer churn, ultimately helping businesses enhance their retention strategies.
 
 ## Data Source
 The <a href="https://www.rdocumentation.org/packages/modeldata/versions/1.3.0/topics/mlc_churn" target="_blank">Dataset</a>
- is sourced from the modeldata package in R, a MLC++ machine learning software challenge problem. It contains 19 input variables and 1 binary outcome. These 19 inputs represent customer characteristics, including location, account history, and purchase behavior. The variable names are detailed in the data dictionary EDA description. The critical outcome of interest is indicated by the "churn" column, which specifies whether a customer has churned ("yes") or not ("no"). Churn refers to a customer leaving and no longer purchasing products from the company.
+ is sourced from the modeldata package in R, an MLC++ machine learning software challenge problem. It contains 19 input variables and 1 binary outcome. These 19 inputs represent customer characteristics, including location, account history, and purchase behavior. The variable names are detailed in the data dictionary EDA description. The critical outcome of interest is indicated by the "churn" column, which specifies whether a customer has churned ("yes") or not ("no"). Churn refers to a customer leaving and no longer purchasing products from the company.
 contains various data points that highlight customer characteristics and company interactions but does not include any personally identifiable information.
-
-This project follows a systematic approach, including data preprocessing, exploratory data analysis (EDA), feature engineering, model building, model performance evaluation, and cross-validation. By applying robust predictive models, we identified the most significant features influencing customer churn, ultimately helping businesses enhance their retention strategies.
 
 ## Key Findings
 Significant Predictors of Churn:
 
-The analysis identified two main variables: total_day_minutes and total_eve_minutes, along with a principal component feature, pca_cluster, as significant predictors of customer churn.
+The analysis identified two main variables, total_day_minutes and total_eve_minutes, and a principal component feature, pca_cluster, as significant predictors of customer churn.
 Model Development:
 
 The study developed and evaluated several models. The primary model, Model 8, which included interaction terms and polynomial features, demonstrated the highest performance.
