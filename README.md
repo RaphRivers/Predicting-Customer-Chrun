@@ -48,19 +48,28 @@ Validation of model performance using input grid cross-validation to assess stab
 Model 8: Primary Model
 Features: Includes linear terms, interaction terms, and polynomial features.
 Performance: Achieved a mean ROC_AUC score of 0.6798 with a 95% confidence interval of 0.0117.
-This model demonstrated the best performance and can be used for predicting churn on new datasets.
+This model demonstrated the best performance and can be used to predict churn on new datasets.
 
 ## Conclusion
 This project highlights the critical importance of advanced feature engineering and model selection techniques in accurately predicting customer churn. The insights gained from this analysis offer valuable guidance for businesses aiming to enhance their customer retention strategies. By focusing on significant predictors such as total_day_minutes, total_eve_minutes, and pca_cluster, companies can develop targeted interventions to reduce churn and promote long-term customer loyalty.
 
 ## How to Use
-Dataset: Ensure you have the customer service call dataset.
+Dataset: Ensure you have the customer service call dataset you can get it following this link https://www.rdocumentation.org/packages/modeldata/versions/1.3.0/topics/mlc_churn.
+
 Preprocessing: Apply the data preprocessing steps as outlined in the methodology section.
+
 Model Training: Use the provided models or train new ones using the same features and techniques.
+
 Prediction: Apply the trained model to new data to predict customer churn.
+
 Evaluation: Assess model performance on new datasets and refine as necessary.
-Future Work
+
+## Future Work
 Further Feature Exploration: Explore additional feature engineering techniques to uncover other potential predictors.
-Advanced Modeling Techniques: Experiment with other machine learning algorithms such as Random Forest, Gradient Boosting, or Neural Networks to potentially improve prediction accuracy.
+
+Advanced Modeling Techniques: To improve prediction accuracy, experiment with other machine learning algorithms, such as Random Forest, Gradient Boosting, or Neural Networks.
+
+## Contribution
+Contribution to this project is highly encouraged. Thank you!
 
 
